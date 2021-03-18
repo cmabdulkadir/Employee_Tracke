@@ -11,5 +11,9 @@ Clone this repository and then open the terminal window and navigate to the fold
 
 Javascript, MySQL, node.js, npm packages(inquirer, mysql).
 
+# License
+
+ISC License
+
 
 
